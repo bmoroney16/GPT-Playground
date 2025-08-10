@@ -1,0 +1,12 @@
+{
+  "name": "gpt-playground",
+  "version": "1.0.0",
+  "description": "ASCII tide grid simulator",
+  "main": "GPTPlayground.js",
+  "scripts": {
+    "test": "node GPTPlayground.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
